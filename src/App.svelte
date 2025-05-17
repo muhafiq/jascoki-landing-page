@@ -8,6 +8,7 @@
       <li>Illyaz Arya Shihab Kusuma | 22.11.5156</li>
       <li>Muh. Afiq Ma'mun | 22.11.5163</li>
       <li>Muhammad Fawwaz Humam | 22.11.5178</li>
+      <li>Fiqih Fathurrochim | 22.11.5142</li>
     </ol>
   </div>
 </main>
