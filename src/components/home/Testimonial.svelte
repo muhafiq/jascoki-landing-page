@@ -14,7 +14,7 @@
         "Promo yang diberikan sangat menarik, saya dapat gratis revisi sepuasnya.",
     },
     {
-      photo: "https://i.pravatar.cc/150?img=36",
+      photo: "https://i.pravatar.cc/150?img=2",
       name: "Afiq",
       role: "pengguna",
       review: "Harga terjangkau dan hasil design sangat memuaskan.",
